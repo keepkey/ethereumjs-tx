@@ -34,10 +34,12 @@
     "ethereum-common": "^0.0.18",
     "ethereumjs-util": "^5.0.0"
   },
+  "peerDependencies": {
+    "babelify": "^7.3.0"
+  },
   "devDependencies": {
     "async": "^2.0.0",
     "babel-preset-es2015": "^6.24.0",
-    "babelify": "^7.3.0",
     "browserify": "^13.0.0",
     "contributor": "^0.1.25",
     "coveralls": "^2.11.4",
