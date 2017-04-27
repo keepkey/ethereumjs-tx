@@ -35,7 +35,7 @@
     "ethereumjs-util": "^5.0.0"
   },
   "peerDependencies": {
-    "babelify": "^7.3.0"
+    "babelify": "7.x"
   },
   "devDependencies": {
     "async": "^2.0.0",
