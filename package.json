@@ -32,10 +32,11 @@
   "license": "MPL-2.0",
   "dependencies": {
     "ethereum-common": "^0.0.18",
-    "ethereumjs-util": "^5.0.0"
+    "ethereumjs-util": "^5.0.0",
+    "babelify": "^7.3.0"
   },
   "peerDependencies": {
-    "babelify": "7.x"
+    "babelify": "7.3.x"
   },
   "devDependencies": {
     "async": "^2.0.0",
